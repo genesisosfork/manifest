@@ -70,7 +70,6 @@
 
   <!-- sepolicy -->
   <project path="device/lineage/sepolicy" name="device_lineage_sepolicy" remote="fork" />
-  <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="GenesisOS" />
 
   <!-- system -->
   <project path="system/core" name="system_core" groups="pdk" remote="GenesisOS" />
