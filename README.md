@@ -12,7 +12,7 @@ Compiling GenesisOS
 
 ### First you need to initialize your local repository using the following command:
 ```
-repo init -u https://github.com/GenesisOS/manifest.git -b verve-qpr2 --git-lfs
+repo init -u https://github.com/genesisosfork/manifest.git -b verve-qpr2 --git-lfs
 ```
 ### Then Sync the source code using the following command:
 ```
@@ -34,7 +34,3 @@ mka genesis
 ```
 Now fix the errors during compilation and wait for Successful Build Message. Happy Compiling!
 
-Important Links
--
-- [*Join Our Community!*](https://t.me/GenesisOSChat)
-- [*Latest GenesisOS Update!*](https://t.me/TheGenesisOS)
