@@ -26,6 +26,10 @@ for x in releasekey platform shared media networkstack verity otakey testkey sdk
     ./development/tools/make_key vendor/genesis/signing/keys/$x "$subject"; \
 done
 ```
+### Flag(s) (put in genesis_codename.mk)
+```
+GENESIS_MAINTAINER := Burger
+```
 ### Now adapt your Device Trees for GenesisOS and start the build using the following commands:
 ```
 source build/envsetup.sh
