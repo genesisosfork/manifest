@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/GenesisOS/.github/master/profile/BuildBanner.png)
+![banner](https://raw.githubusercontent.com/genesisosfork/.github/master/profile/BuildBanner.png)
 
 Getting Started
 -
